@@ -1,0 +1,27 @@
+{
+  "name": "replay-node",
+  "version": "0.0.0",
+  "description": "Node library for replay.io tracking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Originate/replay-node"
+  },
+  "keywords": [
+    "node.js",
+    "replay.io"
+  ],
+  "author": "Originate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Originate/replay-node/issues"
+  },
+  "dependencies": {
+    "request": "~2.37.0",
+    "assert": "~1.1.1",
+    "clone": "~0.1.17"
+  }
+}
