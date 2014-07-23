@@ -22,6 +22,7 @@
   "dependencies": {
     "request": "~2.37.0",
     "assert": "~1.1.1",
-    "clone": "~0.1.17"
+    "clone": "~0.1.17",
+    "express": "~3.14.0"
   }
 }
